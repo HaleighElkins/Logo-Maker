@@ -31,7 +31,7 @@ inquirer
             type: "list",
             name: "shape",
             message: "Please chose which shape you'd like to use:",
-            choices: ["Triange", "Circle", "Square"],
+            choices: ["Triangle", "Circle", "Square"],
         },
         // WHEN I am prompted for the shape's color
         // THEN I can enter a color keyword (OR a hexadecimal number)
