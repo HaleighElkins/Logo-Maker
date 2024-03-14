@@ -21,7 +21,7 @@ class Svg {
 setTextElement(text, color, shape) {
     let textX, textY;
 
-    // Test is 60px
+    // Text is 60px
     const textWidth = text.length * 60; 
 
     switch (shape.toLowerCase()) {
