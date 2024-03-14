@@ -23,3 +23,12 @@ https://jestjs.io/docs/expect
 https://stackoverflow.com/questions/50807170/jest-test-fails-when-trying-to-test-an-asynchronous-function-throws
 
 
+
+
+For the scaling of the shapes: 
+https://www.w3.org/TR/SVG/
+
+
+Stack OverFlow Node Questions: 
+
+https://stackoverflow.com/questions/61126142/import-inquirer-as-module-in-node-13
