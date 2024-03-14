@@ -4,13 +4,19 @@
 ## Description 
 AS a freelance web developer I WANT to generate a simple logo for my projects SO THAT I don't have to pay a graphic designer
 
+
+
+## Video and Screen Shots
+
+Video Link - https://drive.google.com/file/d/1dDDtImlwgfFc-7esOvazsTbly-holLY5/view
+
+
+
 <img width="365" alt="Screenshot 2024-03-14 090904" src="https://github.com/HaleighElkins/Logo-Maker/assets/152942336/217e6a3d-dd82-4ee4-a9fe-2e25234d390d">
 
 <img width="356" alt="Screenshot 2024-03-14 090922" src="https://github.com/HaleighElkins/Logo-Maker/assets/152942336/2d7026a7-923b-4e20-abe8-ffbd5f926eb1">
 
 ![Screenshot 2024-03-14 090935](https://github.com/HaleighElkins/Logo-Maker/assets/152942336/d5574506-7d96-482f-80d5-5445debf6786)
-
-
 --- 
 
 ## Installation 
