@@ -64,9 +64,15 @@ https://jestjs.io/docs/expect
 
 https://stackoverflow.com/questions/50807170/jest-test-fails-when-trying-to-test-an-asynchronous-function-throws
 
+https://stackoverflow.com/questions/77671497/create-new-object-dynamically
 
 For the scaling of the shapes: 
 https://www.w3.org/TR/SVG/
+
+https://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color-or-rgb-and-blend-colors
+
+https://resources.jointjs.com/docs/jointjs/v4.0/joint.html
+
 
 
 Stack OverFlow Node Questions: 
